@@ -1,0 +1,6 @@
+category_key,category_name,department,target_margin
+ELEC,Electronics,Hard Goods,0.25
+HOME,Home & Garden,Home,0.45
+APRL,Apparel,Soft Goods,0.55
+SPRT,Sports & Outdoor,Hard Goods,0.4
+HLTH,Health & Beauty,Personal Care,0.6

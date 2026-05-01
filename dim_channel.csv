@@ -1,0 +1,7 @@
+channel_key,channel_name,channel_type,is_paid
+ORGANIC,Organic Search,Owned,0
+PAID_SRC,Paid Search,Paid,1
+SOCIAL,Social Media,Paid,1
+EMAIL,Email,Owned,0
+DIRECT,Direct,Owned,0
+REFERRAL,Referral,Earned,0

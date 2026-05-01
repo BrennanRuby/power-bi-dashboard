@@ -1,0 +1,6 @@
+region_key,region_name,timezone
+NE,Northeast,Eastern
+SE,Southeast,Eastern
+MW,Midwest,Central
+WE,West,Pacific
+SW,Southwest,Mountain
